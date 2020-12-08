@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android/5강/BmiCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android/5강/BmiCalculator/bmicalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android/5강/BmiCalculator/bmicalculator/bmicalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BmiCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BmiCalculator/BmiCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BmiCalculator/BmiCalculator/bmicalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BmiCalculator/BmiCalculator/bmicalculator/bmicalculator" vcs="Git" />
+  </component>
+</project>

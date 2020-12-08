@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">stopwatch</string>
+    <string name="secTextView">0</string>
+    <string name="milliTextView">00</string>
+</resources>
